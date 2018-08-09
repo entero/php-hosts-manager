@@ -1,0 +1,10 @@
+{
+  "name": "enterosoft/php-hosts-manager",
+  "type": "library",
+  "description": "PHP hosts manager",
+  "autoload": {
+    "psr-4": {
+      "entero\\phpHostsManager\\": "src"
+    }
+  }
+}
